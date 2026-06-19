@@ -1,6 +1,5 @@
 ; =====================================================================
 ; Project Title: Text-Based "Loading" Bar (Project 7)
-; Author: [Your Name] 
 ; Course: Low-Level System Design & Hardware-Software Interfacing
 ; Description: Visual progress bar using colored blocks (ASCII 219) with 
 ;              a delay loop. Demonstrates memory segmentation, logical 
